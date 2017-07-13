@@ -17,3 +17,4 @@ $ git add asdf.ext
 $ git commit -m "commit message"
 $ git remote add origin https://github.com/ropenta/first_news_app.git  <-- this can be done here or earlier
 $ git push origin master  <--- for the master branch
+7. Repeat step 6 as needed
